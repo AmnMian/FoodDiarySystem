@@ -1,0 +1,7 @@
+F,white bread,2,slice,140,20,
+B,coffee,6,oz,20,10,
+F,wheat bread,1,slice,45,20,
+B,whole milk,8,oz,150,0,
+B,2% milk,8,oz,100,0,
+B,orange juice,8,oz,80,0,
+F,egg,1,piece,70,5,
